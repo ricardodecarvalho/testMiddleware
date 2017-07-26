@@ -1,0 +1,13 @@
+{
+  "name": "ricardodecarvalho/testMiddleware",
+  "version": "0.0.1",
+  "description": "Only test",
+  "require": {
+    "php": ">=5.5.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "TestMiddleware\\": "./src"
+    }
+  }
+}
