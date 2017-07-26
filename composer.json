@@ -1,7 +1,21 @@
 {
   "name": "ricardodecarvalho/testMiddleware",
-  "version": "0.0.1",
+  "type": "library",
   "description": "Only test",
+  "keywords": [
+    "test",
+    "middleware"
+  ],
+  "homepage": "https://github.com/ricardodecarvalho/testMiddleware",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ricardo de Carvalho",
+      "email": "skapitao@gmail.com ",
+      "homepage": "http://ricardodecarvalho",
+      "role": "Developer"
+    }
+  ],
   "require": {
     "php": ">=5.5.0"
   },
